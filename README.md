@@ -2,7 +2,7 @@
 A quick learner with a curious spirit, continuously seeking opportunities to innovate. <br>AI and Finance enthusiast.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrodriguez-ar) 
 
 # 💻 Tech Stack:
